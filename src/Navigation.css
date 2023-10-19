@@ -1,0 +1,33 @@
+.search {
+    display: block;
+    height: 80%;
+    width: 100%;
+    background-color: #88BDBC;
+  }
+  
+  .search form {
+    margin-top: 10px;
+    display: inline-block;
+    align-items: center;
+  }
+  
+  .search input {
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    width: 69%;
+    border: 2px solid #254E58;
+    display: inline-block;
+    border-radius: 10px;
+  }
+  
+  .search p {
+    color: black;
+    margin-left: 18px;
+    margin-right: 35px;
+    display: inline-block;
+  }
+
+  

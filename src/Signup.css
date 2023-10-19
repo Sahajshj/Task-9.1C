@@ -1,0 +1,70 @@
+.header2 {
+    text-align: center;
+    padding: 20px;
+    background-color: #272727;
+    color: #007bff;
+    display: block;
+    border: 2px;
+    border-radius: 10px;
+    width: 50%;
+    margin-top: 50px
+    ;
+    margin-left: 25%;
+    
+  }
+  .header2 h3{
+    color: #FF652F
+  }
+  .Q1{
+    /* border: none;
+    border-radius: 10px; */
+    display: inline-block;
+    width: 15%;
+    color: #66FCF1;
+  }
+  
+  
+  .Q2{
+    display: inline-block;
+    width: 15%;
+    color: #66FCF1;
+  }
+  
+  .Q3{
+    display: inline-block;
+    width: 15%;
+    color: #66FCF1;
+  }
+  
+  .Q4{
+    display: inline-block;
+    width: 15%;
+    color: #66FCF1;
+  }
+  
+  Input[type="text"],
+  Input[type="email"],
+  Input[type="password"] {
+   background-color: #dce0e4;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    display: inline-block;
+      margin-top: 10px;
+      padding: 10px;
+      width: 75%;
+      margin-left: 20px;
+      margin-right: 10px;
+  }
+  
+  button {
+    background-color: #14A76C;
+    color: #fff;
+    width: 78%;
+    margin-left: 122px;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
